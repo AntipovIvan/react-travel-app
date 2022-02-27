@@ -1,0 +1,15 @@
+.button {
+  position: fixed;
+  width: 100%;
+  left: 90%;
+  bottom: 100px;
+}
+
+@media screen and (max-width: 940px) {
+  .button {
+    position: fixed;
+    width: 100%;
+    left: 80%;
+    bottom: 100px;
+  }
+}
